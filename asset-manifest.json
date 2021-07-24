@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fruitcartt/static/css/main.7f7bd0fe.chunk.css",
+    "main.js": "/fruitcartt/static/js/main.d0522766.chunk.js",
+    "main.js.map": "/fruitcartt/static/js/main.d0522766.chunk.js.map",
+    "runtime-main.js": "/fruitcartt/static/js/runtime-main.c7292a66.js",
+    "runtime-main.js.map": "/fruitcartt/static/js/runtime-main.c7292a66.js.map",
+    "static/js/2.eb4a9b37.chunk.js": "/fruitcartt/static/js/2.eb4a9b37.chunk.js",
+    "static/js/2.eb4a9b37.chunk.js.map": "/fruitcartt/static/js/2.eb4a9b37.chunk.js.map",
+    "index.html": "/fruitcartt/index.html",
+    "static/css/main.7f7bd0fe.chunk.css.map": "/fruitcartt/static/css/main.7f7bd0fe.chunk.css.map",
+    "static/js/2.eb4a9b37.chunk.js.LICENSE.txt": "/fruitcartt/static/js/2.eb4a9b37.chunk.js.LICENSE.txt",
+    "static/media/cart.d146d6c3.svg": "/fruitcartt/static/media/cart.d146d6c3.svg",
+    "static/media/close.ea7c95d7.svg": "/fruitcartt/static/media/close.ea7c95d7.svg",
+    "static/media/menu.e8db7520.svg": "/fruitcartt/static/media/menu.e8db7520.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7292a66.js",
+    "static/js/2.eb4a9b37.chunk.js",
+    "static/css/main.7f7bd0fe.chunk.css",
+    "static/js/main.d0522766.chunk.js"
+  ]
+}
